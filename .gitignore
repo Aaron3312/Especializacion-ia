@@ -2,3 +2,6 @@
 .ipynb_checkpoints/
 .DS_Store
 .claude/settings.local.json
+
+# Credenciales (clave privada de Firebase)
+consultancy.json
