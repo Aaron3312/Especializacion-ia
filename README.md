@@ -11,5 +11,5 @@ Actividades del trimestre Sep–Dic 2026.
 
 ```bash
 python3 -m venv .venv
-.venv/bin/pip install pandas matplotlib jupyter
+.venv/bin/pip install pandas matplotlib seaborn scipy jupyter
 ```
